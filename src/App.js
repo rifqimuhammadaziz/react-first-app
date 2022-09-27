@@ -1,10 +1,9 @@
 import './App.css';
-import Button from './Button';
 
 function App() {
   return (
     <div className="App">
-      <Button>Click This</Button>
+      <h1>Home Page</h1>
     </div>
   );
 }
